@@ -1,5 +1,7 @@
-• This module wallhack to PUBGM 32 & 64 BIT [Global-Korea-Vietnam-Taiwan]
+• This module wallhack to PUBGM 64 BIT [Global-Korea-Vietnam-Taiwan]
 
-• Dont Forget Change Folder to file "ProgramBinaryCache" in /sdcard/Android/0/data/yourpubg/files/
+• Please Feedback to Update Modules
 
-• Join channel @Z_TeamID
+• Channel TG :  @Z_TeamID
+
+• Owner TG : @Only_ChenkZ
